@@ -1,0 +1,21 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "acidrain",
+    "name": "AcidRain",
+    "description": "This mod makes it rain acid",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/zlainsama/acidrain",
+    "updateUrl": "",
+    "authorList": ["zlainsama"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": ["forge"],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": true
+  }]
+}
